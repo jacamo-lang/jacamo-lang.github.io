@@ -9,6 +9,9 @@ title                    : "JaCaMo"
 #search_full_content      : true
 search_enabled: false
 
+footer_content: ""
+
+
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
 
