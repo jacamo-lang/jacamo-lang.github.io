@@ -1,4 +1,5 @@
 main:
-  - title: "Teaching"
+  - title: "Test"
     url: /teaching/
-    
+  - title: "Documentaion"
+    url: http://jacamo-lang.github.io/jacamo/    
