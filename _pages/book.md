@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Configuration
-nav_order: 4
+title: Book
+nav_order: 3
 ---
 
-# Book
+# JaCaMo Book
 
   [Publisher web site](https://mitpress.mit.edu/books/multi-agent-oriented-programming)
 
