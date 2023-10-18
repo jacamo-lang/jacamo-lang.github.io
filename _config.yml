@@ -12,3 +12,5 @@ plugins:
 
 footer:
   links:
+  - label: "GitHub"
+      icon: "fab fa-fw fa-github"
