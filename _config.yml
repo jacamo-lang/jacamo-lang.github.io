@@ -10,3 +10,5 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
+footer:
+  links:
