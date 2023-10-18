@@ -10,7 +10,13 @@ defaults:
 permalink: /book/
 ---
 
-# JaCaMo book
+---
+layout: default
+title: Configuration
+nav_order: 4
+---
+
+# Book
 
   [Publisher web site](https://mitpress.mit.edu/books/multi-agent-oriented-programming)
 
