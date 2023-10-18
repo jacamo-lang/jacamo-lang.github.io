@@ -12,3 +12,16 @@ plugins:
   - jekyll-include-cache
 
 author_profile: false
+
+nav_external_links:
+  - title: "Getting Started"
+    url: https://jacamo-lang.github.io/documentation/getting-started/readme.html    
+    opens_in_new_tab: true
+  - title: "Documentation"
+    url: http://jacamo-lang.github.io/jacamo/    
+    opens_in_new_tab: true
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Book"
+    url: /book/
+
