@@ -4,7 +4,9 @@
 remote_theme: "just-the-docs/just-the-docs"
 # doc https://just-the-docs.com/docs
 
-title                    : "JaCaMo"
+title: JaCaMo
+description: JaCaMo web site and documentation
+
 search_enabled: false
 
 footer_content: ""
