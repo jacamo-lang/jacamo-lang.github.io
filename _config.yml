@@ -1,6 +1,8 @@
 #remote_theme: "mmistakes/minimal-mistakes"
+#minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 remote_theme: "just-the-docs/just-the-docs"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# doc https://just-the-docs.com/docs
 
 title                    : "JaCaMo"
 search                   : true
@@ -11,8 +13,6 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-author_profile: false
-
 nav_external_links:
   - title: "Getting Started"
     url: https://jacamo-lang.github.io/documentation/getting-started/readme.html    
@@ -20,8 +20,4 @@ nav_external_links:
   - title: "Documentation"
     url: http://jacamo-lang.github.io/jacamo/    
     opens_in_new_tab: true
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Book"
-    url: /book/
 
