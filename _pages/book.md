@@ -1,16 +1,4 @@
 ---
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-permalink: /book/
----
-
----
 layout: default
 title: Configuration
 nav_order: 4
