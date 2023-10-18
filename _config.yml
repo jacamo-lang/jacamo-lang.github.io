@@ -9,8 +9,3 @@ include: ["_pages"]
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
-
-footer:
-  links:
-  - label: "GitHub"
-      icon: "fab fa-fw fa-github"
