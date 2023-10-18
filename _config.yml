@@ -7,6 +7,7 @@ remote_theme: "just-the-docs/just-the-docs"
 title                    : "JaCaMo"
 #search                   : true
 #search_full_content      : true
+search_enabled: false
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
