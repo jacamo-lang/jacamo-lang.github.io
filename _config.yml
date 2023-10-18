@@ -1,5 +1,5 @@
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "minima" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 title                    : "JaCaMo"
 search                   : true
@@ -9,3 +9,5 @@ include: ["_pages"]
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
+
+author_profile: false
