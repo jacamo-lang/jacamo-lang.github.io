@@ -39,12 +39,13 @@ You find alternatives to create JaCaMo applications
 [here](http://jacamo-lang.github.io/jacamo/install.html) (using
 codespace/gitpod/docker/…).
 
-Unix  
+Unix:
+
     wget -q http://jacamo-lang.github.io/jacamo/nps/np1.2.zip
     unzip np1.2.zip
     ./gradlew -Dexec.args="my1st-app --console"
 
-Windows  
+Windows: 
 1.  Download <http://jacamo-lang.github.io/jacamo/nps/np1.2.zip>
 
 2.  Unzip
