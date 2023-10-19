@@ -1,3 +1,9 @@
+---
+layout: default
+title: Getting Started
+nav_order: 1
+---
+
 # Getting Started as a JaCaMo Application Developer
 
 
