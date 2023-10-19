@@ -35,9 +35,10 @@ application](#../terminology.adoc#jacamo_application) identified by
 [organization](#../terminology.adoc#organization). (The first time you
 run JaCaMo takes longer since it downloads all dependencies.)
 
-You find alternatives to create JaCaMo applications
+> **NOTE**: You find alternatives to create JaCaMo applications
 [here](http://jacamo-lang.github.io/jacamo/install.html) (using
 codespace/gitpod/docker/…).
+
 
 Unix:
 
