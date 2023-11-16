@@ -4,20 +4,20 @@ layout: splash
 permalink: /getting-started
 ---
 
-# Getting Started as a JaCaMo Application Developer
+## Getting Started as a JaCaMo Application Developer
 
 
 This guide walks you through the process of creating a Multi-Agent
 application using JaCaMo platform.
 
-# What You Will Build
+## What You Will Build
 
 You will build a very simple Multi-Agent System composed of two agents
 that exchange simple messages. These agents are named Bob and Alice. In
 the application, Alice sends a hello message to Bob, they are situated
 in the same environment and participate into an organisation.
 
-# What You Need
+## What You Need
 
 -   Java 17 or newer
 
@@ -25,7 +25,7 @@ in the same environment and participate into an organisation.
 
 -   A text editor (Visual Studio Code, Notepad, …)
 
-# Creating an initial application
+## Creating an initial application
 
 The following commands will create a new [JaCaMo
 application](#../terminology.adoc#jacamo_application) identified by
@@ -77,7 +77,7 @@ Several files and folders were created, the most relevant are:
         │   └── org.xml
         └── test           // Code for testing
 
-# Execution
+## Execution
 
 The application is ready to be executed with the commands:
 
@@ -100,7 +100,7 @@ printed a "Hello World" message. The JaCaMo Application however keeps
 running, even without having anything to do. To stop the execution, you
 can press &lt;CTRL&gt;-C.
 
-# Creating agents alice and bob
+## Creating agents alice and bob
 
 So, you will now remove this `sample_agent` from the application and add
 alice and bob.
@@ -177,7 +177,7 @@ Studio Code as the IDE.
 
 ![VSC](./figs/screen-vsc1.png)
 
-# Using a shared environment
+## Using a shared environment
 
 The environment provides perception for the agents and is where their
 actions take place. In our application, agents will share an artifact of
@@ -308,7 +308,7 @@ printing the values as soon as they are perceived:
     [bob] counter = 16
     [alice] I've got the unique value of 16
 
-# Participating to an organisation
+## Participating to an organisation
 
 Let’s make the agents participate to an
 [organisation](#../terminology#organisation). For that purpose, agents
@@ -374,7 +374,7 @@ Using this implementation, Alice’s code is not tightly coupled with Bob
 anymore. Another agent can replace Bob as the player of `role2` and
 Alice keeps running correctly.
 
-# What you have learnt
+## What you have learnt
 
 In this brief tutorial, you have learnt:
 
