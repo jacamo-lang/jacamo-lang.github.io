@@ -4,7 +4,7 @@ main:
   - title: "Examples"
     url: /examples
   - title: "Documentation"
-    url: http://jacamo-lang.github.io/jacamo/    
+    url: /doc
     opens_in_new_tab: true
   - title: "Projects"
     url: /projects
