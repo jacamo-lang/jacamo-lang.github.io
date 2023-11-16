@@ -1,5 +1,6 @@
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# doc https://mmistakes.github.io/minimal-mistakes/docs/configuration/
 
 #remote_theme: "just-the-docs/just-the-docs"
 # doc https://just-the-docs.com/docs

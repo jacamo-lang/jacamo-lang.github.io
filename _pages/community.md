@@ -4,4 +4,4 @@ layout: splash
 permalink: /community
 ---
 
-TBD: foum
+TBD: forum, users, courses, ...
