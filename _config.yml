@@ -20,8 +20,8 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-nav_external_links:
-  - title: "Documentation"
-    url: http://jacamo-lang.github.io/jacamo/    
-    opens_in_new_tab: true
+# nav_external_links:
+#   - title: "Documentation"
+#     url: http://jacamo-lang.github.io/jacamo/    
+#     opens_in_new_tab: true
 
