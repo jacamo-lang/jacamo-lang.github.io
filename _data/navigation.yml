@@ -7,6 +7,6 @@ main:
     url: http://jacamo-lang.github.io/jacamo/    
     opens_in_new_tab: true
   - title: "Projects"
-    url: /projects/
+    url: /projects
   - title: "Community"
-    url: /community/
+    url: /community
