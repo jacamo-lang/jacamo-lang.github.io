@@ -4,7 +4,9 @@ layout: splash
 permalink: /doc
 ---
 
-[JaCaMo doc](http://jacamo-lang.github.io/jacamo/){:target="_blank"}
+## JaCaMo repository doc
+
+[link](http://jacamo-lang.github.io/jacamo/){:target="_blank"}
 
 ## JaCaMo Book
 

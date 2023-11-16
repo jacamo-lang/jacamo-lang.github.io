@@ -5,7 +5,6 @@ main:
     url: /examples
   - title: "Documentation"
     url: /doc
-    opens_in_new_tab: true
   - title: "Projects"
     url: /projects
   - title: "Community"
