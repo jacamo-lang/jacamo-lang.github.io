@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Getting Started
-nav_order: 1
+title: ""
+layout: splash
+permalink: /getting-started
 ---
 
 # Getting Started as a JaCaMo Application Developer
