@@ -1,8 +1,12 @@
 main:
   - title: "Getting Started"
     url: /getting-started
+  - title: "Examples"
+    url: /examples
   - title: "Documentation"
-    url: ttp://jacamo-lang.github.io/jacamo/    
+    url: http://jacamo-lang.github.io/jacamo/    
     opens_in_new_tab: true
   - title: "Projects"
     url: /projects/
+  - title: "Community"
+    url: /community/
