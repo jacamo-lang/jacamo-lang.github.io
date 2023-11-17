@@ -10,9 +10,9 @@ permalink: /doc
 
 ## JaCaMo Book
 
-  [Publisher web site](https://mitpress.mit.edu/books/multi-agent-oriented-programming)
+  [Publisher web site](https://mitpress.mit.edu/books/multi-agent-oriented-programming){:target="_blank"}
 
-  [Download code and examples](https://jacamo-lang.github.io/documentation/maop-book/readme.html)
+  [Download code and examples](https://jacamo-lang.github.io/documentation/maop-book/readme.html){:target="_blank"}
 
   ![book cover](jacamo-book-cover.jpg)
 
