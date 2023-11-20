@@ -2,9 +2,7 @@ main:
   - title: "Getting Started"
     url: /getting-started
   - title: "Examples"
-    url: /examples
-  - title: "Documentation"
-    url: /doc
+    # url: /examples
     children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
@@ -14,6 +12,8 @@ main:
         url: /docs/installation/
       - title: "Upgrading"
         url: /docs/upgrading/
+  - title: "Documentation"
+    url: /doc
   - title: "Projects"
     url: /projects
   - title: "Community"
