@@ -15,6 +15,8 @@ JaCaMo platform addresses applications that requires _autonomy_, _decentralisati
 
 ## News
 
+* New JaCaMo tutorial at [23rd European Agent Systems Summer School](https://easss23.pages.fit). Material is available [here](https://github.com/orgs/JaCaMo-EASSS23/repositories).
+
 * [Version 1.2](https://github.com/jacamo-lang/jacamo/releases) released. The main new feature is a Command Line Interface to create, run, and manage applications.
 
 * [JaCaMo book](https://mitpress.mit.edu/9780262044578/) published by MIT Press!
