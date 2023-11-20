@@ -7,3 +7,5 @@ header:
 ---
 
 The JaCaMo project aims to promote the Multi-Agent Oriented Programming (MAOP) approach by providing a development platform that integrates tools and languages for programming the following dimensions of Multi-Agent Systems: agents, environment, and organisation.
+
+JaCaMo platform addresses applications that requires _autonomy_, _decentralisation_, _coordination_, and _openness_.
