@@ -4,4 +4,7 @@ layout: splash
 permalink: /community
 ---
 
-TBD: forum, users, courses, ...
+ <!-- forum, users, courses, -->
+ 
+* JaCaMo [Packages](/packages) that can be imported in your application
+
