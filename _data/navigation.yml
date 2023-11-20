@@ -9,8 +9,3 @@ main:
     url: /projects
   - title: "Community"
     url: /community
-  - title: "Menu item 1"
-    href: "/menuLevel1/file.md"
-    sub:
-      - title: "menu item 1.1"
-        href: "/menuLevel1/menuLevel2/file.md"          
