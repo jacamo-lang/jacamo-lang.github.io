@@ -15,8 +15,14 @@ JaCaMo platform addresses applications that requires _autonomy_, _decentralisati
 
 ## News
 
-* New JaCaMo tutorial at [23rd European Agent Systems Summer School](https://easss23.pages.fit). Material is available [here](https://github.com/orgs/JaCaMo-EASSS23/repositories).
+* New JaCaMo tutorial at [European Agent Systems Summer School (2023)](https://easss23.pages.fit). Material is available [here](https://github.com/orgs/JaCaMo-EASSS23/repositories).
 
-* [Version 1.2](https://github.com/jacamo-lang/jacamo/releases) released. The main new feature is a Command Line Interface to create, run, and manage applications.
+* New JaCaMo tutorial at [AI4Industry (2023)](https://ai4industry2023.sciencesconf.org). Material is available [here](https://gitlab.emse.fr/ai4industry/hackathon/-/wikis/home).
+
+* New JaCaMo tutorial at [WESAAC (2023)](https://sites.google.com/inf.ufpel.edu.br/wesaac2023). Material is available [here](https://github.com/maiquelb/jacamo-wesaac2023).
+
+* [Version 1.2](https://github.com/jacamo-lang/jacamo/releases) released. The main new feature is a [Command Line Interface](https://github.com/jacamo-lang/jacamo-cli) to create, run, and manage applications.
+
+* New tutorial on [Goal-Oriented Test-Driven Development](https://github.com/jacamo-lang/jacamo/blob/master/doc/tutorials/tdd/readme.adoc).
 
 * [JaCaMo book](https://mitpress.mit.edu/9780262044578/) published by MIT Press!

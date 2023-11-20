@@ -4,4 +4,4 @@ layout: splash
 permalink: /examples
 ---
 
-TBD: examples of (simple) JaCaMo applications
+<!-- examples of (simple) JaCaMo applications -->
