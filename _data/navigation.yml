@@ -2,26 +2,18 @@ main:
   - title: "Getting Started"
     url: /getting-started
   - title: "Examples"
-    # url: /examples
-    children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+    url: /examples
   - title: "Documentation"
     url: /doc
   - title: "Projects"
     url: /projects
   - title: "Community"
     url: /community
-    subfolderitems:
-      - page: Thing 1
-        url: /thing1.html
-      - page: Thing 2
-        url: /thing2.html
-      - page: Thing 3
-        url: /thing3.html
+  - title: Group 1
+      subfolderitems:
+        - page: Thing 1
+          url: /thing1.html
+        - page: Thing 2
+          url: /thing2.html
+        - page: Thing 3
+          url: /thing3.html
