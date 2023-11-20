@@ -4,6 +4,8 @@ layout: splash
 permalink: /projects
 ---
 
+These are some of the current or past projects contributing, extending, or using JaCaMo. If you know of other projects, please let us know.
+
 | Project | Description | Keywords | Links |
 | -------- | ------- |------- |------- |
 | HyperAgents |  |  | [Site](https://project.hyperagents.org) [Ontology](https://ci.mines-stetienne.fr/hmas/core)

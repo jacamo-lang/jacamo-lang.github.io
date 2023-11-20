@@ -1,5 +1,9 @@
 ToDos for this web sige
 
+* how to implement "please let us know" (email, new issue on github, new pull request, ...)
+
+* how to implement the forum (has github such tools?)
+
 * highlight the item of the top menu that is selected
 
 * add sub-menus
