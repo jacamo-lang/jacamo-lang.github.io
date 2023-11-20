@@ -11,7 +11,7 @@ The JaCaMo project aims to promote the Multi-Agent Oriented Programming (MAOP) a
 JaCaMo platform addresses applications  demanding _autonomy_, _decentralisation_, _coordination_, and _openness_.
 
 * [GitHub repository](https://github.com/jacamo-lang/jacamo)
-* [Release Notes](http://jacamo-lang.github.io/jacamo/release-notes.html)
+<!-- * [Release Notes](http://jacamo-lang.github.io/jacamo/release-notes.html) -->
 
 ## News
 
@@ -20,6 +20,8 @@ JaCaMo platform addresses applications  demanding _autonomy_, _decentralisation_
 * New JaCaMo tutorial at [AI4Industry (2023)](https://ai4industry2023.sciencesconf.org). Material is available [here](https://gitlab.emse.fr/ai4industry/hackathon/-/wikis/home).
 
 * New JaCaMo tutorial at [WESAAC (2023)](https://sites.google.com/inf.ufpel.edu.br/wesaac2023). Material is available [here](https://github.com/maiquelb/jacamo-wesaac2023).
+
+* New JaCaMo tutorial at [PFIA (2023)](https://pfia23.icube.unistra.fr/tutoriels/index.html). Material is available [here](https://github.com/orgs/JaCaMo-PFIA23/repositories)
 
 * [Version 1.2](https://github.com/jacamo-lang/jacamo/releases) released. The main new feature is a [Command Line Interface](https://github.com/jacamo-lang/jacamo-cli) to create, run, and manage applications.
 
