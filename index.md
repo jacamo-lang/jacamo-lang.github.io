@@ -10,21 +10,22 @@ The JaCaMo project aims to promote the Multi-Agent Oriented Programming (MAOP) a
 
 JaCaMo platform addresses applications  demanding _autonomy_, _decentralisation_, _coordination_, and _openness_.
 
-* [GitHub repository](https://github.com/jacamo-lang/jacamo)
+[[GitHub repository](https://github.com/jacamo-lang/jacamo)]
 <!-- * [Release Notes](http://jacamo-lang.github.io/jacamo/release-notes.html) -->
 
 ## News
 
-* New JaCaMo tutorial at [European Agent Systems Summer School (2023)](https://easss23.pages.fit). Material is available [here](https://github.com/orgs/JaCaMo-EASSS23/repositories).
+* JaCaMo tutorials 2023:
+  -  [European Agent Systems Summer School](https://easss23.pages.fit) / [material](https://github.com/orgs/JaCaMo-EASSS23/repositories)
 
-* New JaCaMo tutorial at [AI4Industry (2023)](https://ai4industry2023.sciencesconf.org). Material is available [here](https://gitlab.emse.fr/ai4industry/hackathon/-/wikis/home).
+  - [AI4Industry](https://ai4industry2023.sciencesconf.org) /  [material](https://gitlab.emse.fr/ai4industry/hackathon/-/wikis/home)
 
-* New JaCaMo tutorial at [WESAAC (2023)](https://sites.google.com/inf.ufpel.edu.br/wesaac2023). Material is available [here](https://github.com/maiquelb/jacamo-wesaac2023).
+  - [WESAAC](https://sites.google.com/inf.ufpel.edu.br/wesaac2023) / [material](https://github.com/maiquelb/jacamo-wesaac2023)
 
-* New JaCaMo tutorial at [PFIA (2023)](https://pfia23.icube.unistra.fr/tutoriels/index.html). Material is available [here](https://github.com/orgs/JaCaMo-PFIA23/repositories)
+  - [PFIA](https://pfia23.icube.unistra.fr/tutoriels/index.html) / [material](https://github.com/orgs/JaCaMo-PFIA23/repositories)
 
-* [Version 1.2](https://github.com/jacamo-lang/jacamo/releases) released. The main new feature is a [Command Line Interface](https://github.com/jacamo-lang/jacamo-cli) to create, run, and manage applications.
+* [Version 1.2](https://github.com/jacamo-lang/jacamo/releases) released. The main new feature is a [Command Line Interface](https://github.com/jacamo-lang/jacamo-cli) to create, run, and manage applications
 
-* New tutorial on [Goal-Oriented Test-Driven Development](https://github.com/jacamo-lang/jacamo/blob/master/doc/tutorials/tdd/readme.adoc).
+* New tutorial on [Goal-Oriented Test-Driven Development](https://github.com/jacamo-lang/jacamo/blob/master/doc/tutorials/tdd/readme.adoc)
 
 * [JaCaMo book](https://mitpress.mit.edu/9780262044578/) published by MIT Press!
