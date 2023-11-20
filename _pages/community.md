@@ -4,7 +4,7 @@ layout: splash
 permalink: /community
 ---
 
- <!-- forum, users, courses, -->
+ <!-- teaching, schools, forum, users, courses, -->
  
 * JaCaMo [Packages](/packages) that can be imported in your application
 
