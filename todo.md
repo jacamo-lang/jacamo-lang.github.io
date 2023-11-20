@@ -1,4 +1,4 @@
-ToDos for this web sige
+ToDos for this web site
 
 * how to implement "please let us know" (email, new issue on github, new pull request, ...)
 
