@@ -9,6 +9,6 @@ These are some packages you can import and reuse on your own JaCaMo applications
 | Name | Description | Keywords | Links |
 | -------- | ------- |------- |------- |
 | CNP-ACL | Contract Net Protocol based on agent-to-agent communication | CNP | [GitHub](https://github.com/jomifred/cnp-acl)
-| Argo |  |  | [GitHub](https://github.com/chon-group/argo-jcm)
-| Velluscinum |  |  | [GitHub](https://github.com/chon-group/velluscinum-jcm)
+| Argo | Customized agent architecture that extends standard agents by adding the ability to control microcontrollers (Arduino) using Javino |  arduino, hardware, robotics | [GitHub](https://github.com/chon-group/argo-jcm)
+| Velluscinum | Middleware for agents to manage digital assets (Token and NFT) using the BigchainDB permissioned blockchain | token, nft, crypto currency | [GitHub](https://github.com/chon-group/velluscinum-jcm)
 
