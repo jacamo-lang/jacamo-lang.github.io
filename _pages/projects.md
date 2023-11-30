@@ -8,7 +8,7 @@ These are some of the current or past projects contributing, extending, or using
 
 | Project | Description | Keywords | Links |
 | -------- | ------- |------- |------- |
-| HyperAgents |  |  | [Site](https://project.hyperagents.org) [Ontology](https://ci.mines-stetienne.fr/hmas/core)
+| HyperAgents | Deployment of world-wide hybrid communities of people and artificial agents on the Web |  | [Site](https://project.hyperagents.org) [Ontology](https://ci.mines-stetienne.fr/hmas/core) [GitHub](https://github.com/HyperAgents/hmas)
 | Yggdrasil | A platform for Hypermedia Multi-Agent Systems (MAS)  | agents in the web | [GitHub](https://github.com/Interactions-HSG/yggdrasil)
 | Embedded JaCaMo | Resources to integrate agents and physical devices | embedded systems, robotics, ROS | [GitHub](https://github.com/embedded-mas/embedded-mas)
 | Embedded BDI | BDI agents programmed in (a light version of) AgentSpeak  | AgentSpeak to C++, agents on limited devices | [Site](https://embedded-bdi.github.io/) [GitHub](https://github.com/Embedded-BDI/embedded-bdi)
