@@ -15,8 +15,6 @@ permalink: /doc
   [Examples & Exercises used in the book](https://jacamo-lang.github.io/documentation/maop-book/readme.html){:target="_blank"}
 
   ![JaCaMo Book](jacamo-book-cover.jpg){:width="200"}
-  
-  <img src="doc/jacamo-book-cover.jpg" width="200"/>
 
 
 
