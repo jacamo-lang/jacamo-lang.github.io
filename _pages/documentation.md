@@ -8,15 +8,18 @@ permalink: /doc
 
 [link](http://jacamo-lang.github.io/jacamo/){:target="_blank"}
 
-## JaCaMo Book
+<details>
+  <summary>JaCaMo Book</summary>
 
   [Publisher web site](https://mitpress.mit.edu/books/multi-agent-oriented-programming){:target="_blank"}
 
   [Examples & Exercises used in the book](https://jacamo-lang.github.io/documentation/maop-book/readme.html){:target="_blank"}
 
   ![book cover](jacamo-book-cover.jpg)
+</details>
 
-## Application Engineering
+<details>
+<summary>Application Engineering</summary>
 
 ### 1. Launching (jcm)
 
@@ -29,6 +32,8 @@ permalink: /doc
 ### 3. Testing
 
 - [Goal-Oriented Test-Driven for JaCaMo](https://jacamo-lang.github.io/jacamo/tutorials/tdd/readme.html)
+
+</details>
 
 ## Developing Agent, Environment, Interaction, Organisation
 
