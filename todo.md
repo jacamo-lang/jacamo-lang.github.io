@@ -12,5 +12,6 @@ ToDos for this web site
 
 * how to implement the forum (has github such tools?)
   - perhaps https://docs.github.com/en/discussions/managing-discussions-for-your-community/managing-discussions# ???
-  - DONE as proposed for now
+  - DONE as proposed: github discussion
+  - Add an discussion entry, as example?
 
