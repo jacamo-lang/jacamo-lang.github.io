@@ -4,22 +4,21 @@ layout: splash
 permalink: /doc
 ---
 
-## Documentation in JaCaMo repository
+## Documentation in JaCaMo Repository
 
 [link](http://jacamo-lang.github.io/jacamo/){:target="_blank"}
 
-<details>
-  <summary>JaCaMo Book</summary>
+## JaCaMo Book
 
   [Publisher web site](https://mitpress.mit.edu/books/multi-agent-oriented-programming){:target="_blank"}
 
   [Examples & Exercises used in the book](https://jacamo-lang.github.io/documentation/maop-book/readme.html){:target="_blank"}
 
-  ![book cover](jacamo-book-cover.jpg)
-</details>
+  <img src="jacamo-book-cover.jpg" width="200"/>
 
-<details>
-<summary>Application Engineering</summary>
+
+
+## Application Engineering
 
 ### 1. Launching (jcm)
 
