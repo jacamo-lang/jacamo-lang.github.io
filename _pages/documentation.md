@@ -16,8 +16,6 @@ permalink: /doc
 
   ![JaCaMo Book](jacamo-book-cover.jpg){:width="200"}
 
-
-
 ## Application Engineering
 
 ### 1. Launching (jcm)
@@ -32,25 +30,25 @@ permalink: /doc
 
 - [Goal-Oriented Test-Driven for JaCaMo](https://jacamo-lang.github.io/jacamo/tutorials/tdd/readme.html)
 
-</details>
-
 ## Developing Agent, Environment, Interaction, Organisation
 
 ### 1. Agent 
 
-#### 2.1. Concepts  // understanding
+#### 1.1. Understanding the Concepts  
 
-#### 2.2. Technical documentation: // To Be Refactored to comply with JaCaMo writing style
+#### 1.2. Technical documentation
+
+This documentation will be refactored to comply with the new JaCaMo writing style
 
 ### 2. Environment  
 
-// To Be Refactored to comply with JaCaMo writing style
+This documentation will be refactored to comply with the new JaCaMo writing style
 
-#### 2.1. Concepts  // understanding
+#### 2.1. Understanding the Concepts  
 
 -- [by Examples](https://cartago.sourceforge.net/?page_id=47)
 
-#### 2.2. Technical documentation: // To Be Refactored to comply with JaCaMo writing style
+#### 2.2. Technical documentation 
 
 - [CArTaGo](http://cartago.sf.net/doc)
 - API
@@ -59,13 +57,13 @@ permalink: /doc
 
 ### 4. Organization
 
- // To Be Refactored to comply with JaCaMo writing style
+This documentation will be refactored to comply with the new JaCaMo writing style
 
-#### 4.1. Concepts  // understanding
+#### 4.1. Understanding the Concepts 
 
-- [MOISE Tutorial](https://github.com/moise-lang/moise/blob/master/doc/tutorial/tutorial.pdf) (for MOISE 0.7) TO_BE_REFACTORED 
+- [MOISE Tutorial](https://github.com/moise-lang/moise/blob/master/doc/tutorial/tutorial.pdf) (for MOISE 0.7)  
 
-#### 4.2. Technical documentation: // To Be Refactored to comply with JaCaMo writing style
+#### 4.2. Technical documentation
 
 - [Moise](http://moise.sourceforge.net/doc) & [ORA4MAS](http://moise.sourceforge.net/doc/ora4mas)
 - [Specification (draft 2013)](https://github.com/moise-lang/moise/blob/master/doc/specification/moise-spec.pdf)
