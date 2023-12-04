@@ -40,6 +40,10 @@ permalink: /doc
 
 This documentation will be refactored to comply with the new JaCaMo writing style
 
+- [Jason](http://jason-lang.github.io/jason/)
+- [Interoperating with JADE](https://github.com/jason-lang/jason/blob/master/doc/tutorials/jason-jade/readme.adoc)
+- [BDI concepts](https://github.com/jason-lang/jason/blob/master/doc/tutorials/hello-bdi/readme.adoc)
+
 ### 2. Environment  
 
 This documentation will be refactored to comply with the new JaCaMo writing style
