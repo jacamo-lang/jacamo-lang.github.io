@@ -24,3 +24,5 @@ These are some courses related to JaCaMo. If you are using JaCaMo in your course
 *  [Olivier Boissier at EMSE](https://www.emse.fr/~boissier/enseignement/mas.html)
 
 *  [Jomi F. Hubner at UFSC](https://jomifred.github.io/mas/)
+
+*  [Matteo Baldoni at UniTO](https://informatica.i-learn.unito.it/)
