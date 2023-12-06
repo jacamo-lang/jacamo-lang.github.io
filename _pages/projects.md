@@ -4,7 +4,7 @@ layout: splash
 permalink: /projects
 ---
 
-These are some of the current or past projects contributing, extending, or using JaCaMo. If you know of other projects, please let us know by [adding an issue](https://github.com/jacamo-lang/jacamo-lang.github.io/issues/new?assignees=&labels=projects&projects=&template=new-project.md&title=New+Project) or [editing this page (followed by a pull request)](https://github.com/jacamo-lang/jacamo-lang.github.io/edit/main/_pages/projects.md).
+These are some of the current or past projects contributing, extending, or using JaCaMo. If you know of other projects, please let us know by [adding an issue](https://github.com/jacamo-lang/jacamo-lang.github.io/issues/new?assignees=&labels=projects&projects=&template=new-project.md&title=New+Project) or [editing this page](https://github.com/jacamo-lang/jacamo-lang.github.io/edit/main/_pages/projects.md) (followed by a pull request).
 
 | Project | Description | Keywords | Links |
 | -------- | ------- |------- |------- |

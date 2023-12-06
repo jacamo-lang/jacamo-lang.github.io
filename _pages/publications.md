@@ -4,7 +4,7 @@ layout: splash
 permalink: /publications
 ---
 
-This page contains publications related to JaCaMo. To include your publication in the list, [add an issue](https://github.com/jacamo-lang/jacamo-lang.github.io/issues/new?assignees=&labels=publication&projects=&template=new-publication.md&title=new+publication) or [edit this page (followed by a pull request)](https://github.com/jacamo-lang/jacamo-lang.github.io/edit/main/_pages/publications.md).
+This page contains publications related to JaCaMo. To include your publication in the list, [add an issue](https://github.com/jacamo-lang/jacamo-lang.github.io/issues/new?assignees=&labels=publication&projects=&template=new-publication.md&title=new+publication) or [edit this page](https://github.com/jacamo-lang/jacamo-lang.github.io/edit/main/_pages/publications.md)  (followed by a pull request).
 
 ## Books
 
