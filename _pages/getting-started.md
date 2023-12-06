@@ -1,6 +1,9 @@
 ---
-title: ""
-layout: splash
+title: "Getting Started"
+layout: single
+toc: true
+toc_label: "Getting Started"
+toc_sticky: true
 permalink: /getting-started
 ---
 
@@ -170,12 +173,12 @@ can see, bob’s belief is `greeting("hello world")[source(alice)]`. When
 his plan is executed, variable `M` is bound to `"hello world"` and `A`
 to `alice`.
 
-![bob’s Mind](./figs/screen-mind1.png)
+![bob’s Mind](../assets/images/getting-started/screen-mind1.png)
 
 It follows also a screenshot of the project execution when using Visual
 Studio Code as the IDE.
 
-![VSC](./figs/screen-vsc1.png)
+![VSC](../assets/images/getting-started/screen-vsc1.png)
 
 ## Using a shared environment
 
@@ -212,12 +215,12 @@ Note that both agents are focusing on the same artifact (identified by
 the agents, which is stored in their belief base. You can notice that by
 running the application and taking a look at the mind inspector:
 
-![Bob’s Mind](./figs/screen-mind2.png)
+![Bob’s Mind](../assets/images/getting-started/screen-mind2.png)
 
 Now you can also inspect the environment state at
 <http://127.0.0.1:3273>:
 
-![Env State](./figs/screen-env1.png)
+![Env State](../assets/images/getting-started/screen-env1.png)
 
 The artifact also provides two actions: `inc` and `inc_get`. The latter
 increments the counter and returns the new value. Let’s change Alice’s
@@ -351,12 +354,12 @@ to our agents, you can change the application project to:
 Now you can run the application and inspect the organisation state at
 <http://127.0.0.1:3271>:
 
-![Org State](./figs/screen-org1.png)
+![Org State](../assets/images/getting-started/screen-org1.png)
 
 The organisation provides several information for the agents to
 consider:
 
-![Bob’s Mind](./figs/screen-mind3.png)
+![Bob’s Mind](../assets/images/getting-started/screen-mind3.png)
 
 For the agent programming, we will change Alice’s source code so that
 instead of sending a message to an agent named Bob, Alice sends a

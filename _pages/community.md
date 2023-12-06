@@ -1,6 +1,6 @@
 ---
-title: ""
-layout: splash
+title: "Community"
+layout: single
 permalink: /community
 ---
 
@@ -8,6 +8,6 @@ permalink: /community
 
 * [Forum and discussion](https://github.com/jacamo-lang/jacamo/discussions)
 
-* JaCaMo [Packages](/packages) that can be imported in your application
+* JaCaMo [Packages](/community/packages) that can be imported in your application
 
-* [Courses and tutorials using JaCaMo](/teaching)
+* [Courses and tutorials using JaCaMo](/community/teaching)

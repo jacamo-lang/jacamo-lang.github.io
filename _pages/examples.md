@@ -1,6 +1,6 @@
 ---
-title: ""
-layout: splash
+title: "Examples"
+layout: single
 permalink: /examples
 ---
 

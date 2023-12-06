@@ -1,0 +1,361 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Documentation - JaCaMo</title>
+<meta name="description" content="JaCaMo web site and documentation">
+
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="JaCaMo">
+<meta property="og:title" content="Documentation">
+<meta property="og:url" content="http://localhost:4000/doc">
+
+
+  <meta property="og:description" content="JaCaMo web site and documentation">
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/doc">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": null,
+      "url": "http://localhost:4000/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          JaCaMo
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/getting-started">Getting Started</a>
+            </li><li class="masthead__menu-item">
+              <a href="/examples">Examples</a>
+            </li><li class="masthead__menu-item">
+              <a href="/doc">Documentation</a>
+            </li><li class="masthead__menu-item">
+              <a href="/publications">Publications</a>
+            </li><li class="masthead__menu-item">
+              <a href="/projects">Projects</a>
+            </li><li class="masthead__menu-item">
+              <a href="/community">Community</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+  
+    
+
+
+
+<nav class="breadcrumbs">
+  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    
+    
+    
+      
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/" itemprop="item"><span itemprop="name">Home</span></a>
+
+          <meta itemprop="position" content="1" />
+        </li>
+        <span class="sep">/</span>
+      
+      
+        <li class="current">Documentation</li>
+      
+    
+  </ol>
+</nav>
+
+  
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+      
+      
+      
+    
+    
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle Menu</label>
+  <ul class="nav__items">
+    
+  </ul>
+</nav>
+
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Documentation">
+    
+    
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="http://localhost:4000/doc" class="u-url" itemprop="url">Documentation
+</a>
+          </h1>
+          
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right sticky">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> Documentation</h4></header>
+              <ul class="toc__menu"><li><a href="#application-engineering">Application Engineering</a><ul><li><a href="#1-launching-jcm">1. Launching (jcm)</a></li><li><a href="#2-debugging">2. Debugging</a></li><li><a href="#3-testing">3. Testing</a></li></ul></li><li><a href="#developing-agent-environment-interaction-organisation">Developing Agent, Environment, Interaction, Organisation</a><ul><li><a href="#1-agent">1. Agent</a><ul><li><a href="#11-understanding-the-concepts">1.1. Understanding the Concepts</a></li><li><a href="#12-technical-documentation">1.2. Technical documentation</a></li></ul></li><li><a href="#2-environment">2. Environment</a><ul><li><a href="#21-understanding-the-concepts">2.1. Understanding the Concepts</a></li><li><a href="#22-technical-documentation">2.2. Technical documentation</a></li></ul></li><li><a href="#3-interaction">3. Interaction</a></li><li><a href="#4-organization">4. Organization</a><ul><li><a href="#41-understanding-the-concepts">4.1. Understanding the Concepts</a></li><li><a href="#42-technical-documentation">4.2. Technical documentation</a></li></ul></li></ul></li></ul>
+
+            </nav>
+          </aside>
+        
+        <p>This page contains links for JaCaMo documentation. Some of them may be outdated.</p>
+
+<p><a href="http://jacamo-lang.github.io/jacamo/" target="_blank">link to documentation hosted in JaCaMo repository</a></p>
+
+<h2 id="application-engineering">Application Engineering</h2>
+
+<h3 id="1-launching-jcm">1. Launching (jcm)</h3>
+
+<ul>
+  <li><a href="https://jacamo-lang.github.io/jacamo/jcm.html">JaCaMo project: jcm files</a></li>
+</ul>
+
+<h3 id="2-debugging">2. Debugging</h3>
+
+<ul>
+  <li><a href="https://jacamo-lang.github.io/jacamo/debug.html">Debugging in JaCaMo</a></li>
+</ul>
+
+<h3 id="3-testing">3. Testing</h3>
+
+<ul>
+  <li><a href="https://jacamo-lang.github.io/jacamo/tutorials/tdd/readme.html">Goal-Oriented Test-Driven for JaCaMo</a></li>
+</ul>
+
+<h2 id="developing-agent-environment-interaction-organisation">Developing Agent, Environment, Interaction, Organisation</h2>
+
+<h3 id="1-agent">1. Agent</h3>
+
+<h4 id="11-understanding-the-concepts">1.1. Understanding the Concepts</h4>
+
+<h4 id="12-technical-documentation">1.2. Technical documentation</h4>
+
+<p>This documentation will be refactored to comply with the new JaCaMo writing style</p>
+
+<ul>
+  <li><a href="http://jason-lang.github.io/jason/">Jason</a></li>
+  <li><a href="https://github.com/jason-lang/jason/blob/master/doc/tutorials/jason-jade/readme.adoc">Interoperating with JADE</a></li>
+  <li><a href="https://github.com/jason-lang/jason/blob/master/doc/tutorials/hello-bdi/readme.adoc">BDI concepts</a></li>
+</ul>
+
+<h3 id="2-environment">2. Environment</h3>
+
+<p>This documentation will be refactored to comply with the new JaCaMo writing style</p>
+
+<h4 id="21-understanding-the-concepts">2.1. Understanding the Concepts</h4>
+
+<p>– <a href="https://cartago.sourceforge.net/?page_id=47">by Examples</a></p>
+
+<h4 id="22-technical-documentation">2.2. Technical documentation</h4>
+
+<ul>
+  <li><a href="http://cartago.sf.net/doc">CArTaGo</a></li>
+  <li>API</li>
+</ul>
+
+<h3 id="3-interaction">3. Interaction</h3>
+
+<h3 id="4-organization">4. Organization</h3>
+
+<p>This documentation will be refactored to comply with the new JaCaMo writing style</p>
+
+<h4 id="41-understanding-the-concepts">4.1. Understanding the Concepts</h4>
+
+<ul>
+  <li><a href="https://github.com/moise-lang/moise/blob/master/doc/tutorial/tutorial.pdf">MOISE Tutorial</a> (for MOISE 0.7)</li>
+</ul>
+
+<h4 id="42-technical-documentation">4.2. Technical documentation</h4>
+
+<ul>
+  <li><a href="http://moise.sourceforge.net/doc">Moise</a> &amp; <a href="http://moise.sourceforge.net/doc/ora4mas">ORA4MAS</a></li>
+  <li><a href="https://github.com/moise-lang/moise/blob/master/doc/specification/moise-spec.pdf">Specification (draft 2013)</a></li>
+  <li><a href="https://moise.sourceforge.net/doc/ora4mas/">ORA4MAS</a> or in the <a href="https://github.com/moise-lang/moise/tree/master/doc/ora4mas">repository</a> a brief explanation</li>
+  <li>API</li>
+</ul>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+      </footer>
+
+      
+
+      
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2023 JaCaMo. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
