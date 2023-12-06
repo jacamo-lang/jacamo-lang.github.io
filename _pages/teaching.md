@@ -4,7 +4,7 @@ layout: splash
 permalink: /teaching
 ---
 
-These are some courses related to JaCaMo. If you are using JaCaMo in your course, we appreciate adding it to the list! Please let us know by [adding an issue](https://github.com/jacamo-lang/jacamo-lang.github.io/issues/new/choose) or [editing this page (followed by a pull request)](https://github.com/jacamo-lang/jacamo-lang.github.io/edit/main/_pages/teaching.md).
+These are some courses related to JaCaMo. If you are using JaCaMo in your course, we appreciate adding it to the list! Please let us know by [adding an issue](https://github.com/jacamo-lang/jacamo-lang.github.io/issues/new?assignees=&labels=teaching&projects=&template=new-teaching.md&title=NewTeaching) or [editing this page (followed by a pull request)](https://github.com/jacamo-lang/jacamo-lang.github.io/edit/main/_pages/teaching.md).
 
 ## Tutorials
 
