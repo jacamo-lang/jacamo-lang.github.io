@@ -4,17 +4,9 @@ layout: splash
 permalink: /doc
 ---
 
-## Documentation in JaCaMo Repository
+This page contains links for JaCaMo documentation. Some of them may be outdated. 
 
-[link](http://jacamo-lang.github.io/jacamo/){:target="_blank"}
-
-## JaCaMo Book
-
-  [Publisher web site](https://mitpress.mit.edu/books/multi-agent-oriented-programming){:target="_blank"}
-
-  [Examples & Exercises used in the book](https://jacamo-lang.github.io/documentation/maop-book/readme.html){:target="_blank"}
-
-  ![JaCaMo Book](jacamo-book-cover.jpg){:width="200"}
+[link to documentation hosted in JaCaMo repository](http://jacamo-lang.github.io/jacamo/){:target="_blank"}
 
 ## Application Engineering
 
