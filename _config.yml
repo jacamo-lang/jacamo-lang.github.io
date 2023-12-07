@@ -1,28 +1,26 @@
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # doc https://mmistakes.github.io/minimal-mistakes/docs/configuration/
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dirt"
 
-#remote_theme: "just-the-docs/just-the-docs"
-# doc https://just-the-docs.com/docs
+## Defaults
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      sidebar:
+        nav: ""
 
+## General
 title: JaCaMo
 description: JaCaMo web site and documentation
 
-search_enabled: false
+atom_feed:
+  hide: true
+breadcrumbs: true
 
-footer_content: ""
-
-
-# Color scheme supports "light" (default) and "dark"
-#color_scheme: dark
-
-include: ["_pages"]
 plugins:
-  - jekyll-remote-theme
   - jekyll-include-cache
 
-# nav_external_links:
-#   - title: "Documentation"
-#     url: http://jacamo-lang.github.io/jacamo/    
-#     opens_in_new_tab: true
-
+include: ["_pages"]

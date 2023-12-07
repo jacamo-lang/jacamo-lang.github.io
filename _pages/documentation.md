@@ -1,6 +1,9 @@
 ---
-title: ""
-layout: splash
+title: "Documentation"
+layout: single
+toc: true
+toc_label: "Documentation"
+toc_sticky: true
 permalink: /doc
 ---
 
