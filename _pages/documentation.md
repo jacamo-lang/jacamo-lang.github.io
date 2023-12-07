@@ -9,11 +9,13 @@ permalink: /doc
 
 This page contains links for JaCaMo documentation. Some of them may be outdated. 
 
-[link to documentation hosted in JaCaMo repository](http://jacamo-lang.github.io/jacamo/){:target="_blank"}
+<!-- [link to documentation hosted in JaCaMo repository](http://jacamo-lang.github.io/jacamo/){:target="_blank"} -->
 
 ## Application Engineering
 
 ### 1. Launching (jcm)
+
+- [JaCaMo installation](http://jacamo-lang.github.io/jacamo/install.html)
 
 - [JaCaMo project: jcm files](https://jacamo-lang.github.io/jacamo/jcm.html)
 
@@ -35,9 +37,10 @@ This page contains links for JaCaMo documentation. Some of them may be outdated.
 
 This documentation will be refactored to comply with the new JaCaMo writing style
 
-- [Jason](http://jason-lang.github.io/jason/)
-- [Interoperating with JADE](https://github.com/jason-lang/jason/blob/master/doc/tutorials/jason-jade/readme.adoc)
-- [BDI concepts](https://github.com/jason-lang/jason/blob/master/doc/tutorials/hello-bdi/readme.adoc)
+- [Jason Doc](http://jason-lang.github.io/jason/)
+- [Interoperability with JADE](http://jason-lang.github.io/jason/tutorials/jason-jade/readme.html)
+- [BDI concepts](http://jason-lang.github.io/jason/tutorials/hello-bdi/readme.html)
+- [JavaDoc API](https://jason-lang.github.io/api/)
 
 ### 2. Environment  
 
@@ -50,7 +53,7 @@ This documentation will be refactored to comply with the new JaCaMo writing styl
 #### 2.2. Technical documentation 
 
 - [CArTaGo](http://cartago.sf.net/doc)
-- API
+<!-- - API -->
 
 ### 3. Interaction
 
@@ -67,5 +70,5 @@ This documentation will be refactored to comply with the new JaCaMo writing styl
 - [Moise](http://moise.sourceforge.net/doc) & [ORA4MAS](http://moise.sourceforge.net/doc/ora4mas)
 - [Specification (draft 2013)](https://github.com/moise-lang/moise/blob/master/doc/specification/moise-spec.pdf)
 - [ORA4MAS](https://moise.sourceforge.net/doc/ora4mas/) or in the [repository](https://github.com/moise-lang/moise/tree/master/doc/ora4mas) a brief explanation
-- API
+<!-- - API -->
 
