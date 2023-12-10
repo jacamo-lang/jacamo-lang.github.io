@@ -13,11 +13,11 @@ This page contains links for JaCaMo documentation. Some of them may be outdated.
 
 ## Application Engineering
 
-### 1. Launching JaCaMo Project
+### 1. Installing, Creating and Launching JaCaMo Application
 
-- [JaCaMo installation](http://jacamo-lang.github.io/jacamo/install.html)
+- [Creating a JaCaMo Application](http://jacamo-lang.github.io/jacamo/install.html)
 
-- [Configuration file for launching JaCaMo project](https://jacamo-lang.github.io/jacamo/jcm.html) (jcm files)
+- [Configuration file for Launching JaCaMo Application](https://jacamo-lang.github.io/jacamo/jcm.html) (jcm files)
 
 ### 2. Debugging
 
