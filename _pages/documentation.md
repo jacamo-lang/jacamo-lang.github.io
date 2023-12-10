@@ -13,11 +13,11 @@ This page contains links for JaCaMo documentation. Some of them may be outdated.
 
 ## Application Engineering
 
-### 1. Launching (jcm)
+### 1. Launching JaCaMo Project
 
 - [JaCaMo installation](http://jacamo-lang.github.io/jacamo/install.html)
 
-- [JaCaMo project: jcm files](https://jacamo-lang.github.io/jacamo/jcm.html)
+- [Configuration file for launching JaCaMo project](https://jacamo-lang.github.io/jacamo/jcm.html) (jcm files)
 
 ### 2. Debugging
 
@@ -27,19 +27,25 @@ This page contains links for JaCaMo documentation. Some of them may be outdated.
 
 - [Goal-Oriented Test-Driven for JaCaMo](https://jacamo-lang.github.io/jacamo/tutorials/tdd/readme.html)
 
+### 4. Interoperability with othe Agent Plaforms
+
+- [JADE in JaCaMo](http://jason-lang.github.io/jason/tutorials/jason-jade/readme.html) : using JADE as a communication infrastructure between agents of a single JaCaMo application or of a JaCaMo application with JADE agents.
+
 ## Developing Agent, Environment, Interaction, Organisation
 
 ### 1. Agent 
 
 #### 1.1. Understanding the Concepts  
 
+This documentation will be refactored to comply with the new JaCaMo writing style
+
+- [Discovering and mastering BDI concepts](http://jason-lang.github.io/jason/tutorials/hello-bdi/readme.html)
+  
 #### 1.2. Technical documentation
 
 This documentation will be refactored to comply with the new JaCaMo writing style
 
-- [Jason Doc](http://jason-lang.github.io/jason/)
-- [Interoperability with JADE](http://jason-lang.github.io/jason/tutorials/jason-jade/readme.html)
-- [BDI concepts](http://jason-lang.github.io/jason/tutorials/hello-bdi/readme.html)
+- [Jason Agent Programming Language](http://jason-lang.github.io/jason/)
 - [JavaDoc API](https://jason-lang.github.io/api/)
 
 ### 2. Environment  
@@ -48,11 +54,11 @@ This documentation will be refactored to comply with the new JaCaMo writing styl
 
 #### 2.1. Understanding the Concepts  
 
--- [by Examples](https://cartago.sourceforge.net/?page_id=47)
+- [by Examples](https://cartago.sourceforge.net/?page_id=47)
 
 #### 2.2. Technical documentation 
 
-- [CArTaGo](http://cartago.sf.net/doc)
+- [CArtAgO](https://github.com/CArtAgO-lang/cartago/tree/master/docs)
 <!-- - API -->
 
 ### 3. Interaction
@@ -63,12 +69,12 @@ This documentation will be refactored to comply with the new JaCaMo writing styl
 
 #### 4.1. Understanding the Concepts 
 
-- [MOISE Tutorial](https://github.com/moise-lang/moise/blob/master/doc/tutorial/tutorial.pdf) (for MOISE 0.7)  
+- [Tutorial](https://github.com/moise-lang/moise/blob/master/doc/tutorial/tutorial.pdf) (for MOISE 0.7)  
 
 #### 4.2. Technical documentation
 
-- [Moise](http://moise.sourceforge.net/doc) & [ORA4MAS](http://moise.sourceforge.net/doc/ora4mas)
+- [Organisation Definition Language](http://moise.sourceforge.net/doc) (MOISE)
+- [Artifact-based Organisation Management Infrastructure](http://moise.sourceforge.net/doc/ora4mas) (ORA4MAS) -- [brief explanation](https://github.com/moise-lang/moise/tree/master/doc/ora4mas) -- 
 - [Specification (draft 2013)](https://github.com/moise-lang/moise/blob/master/doc/specification/moise-spec.pdf)
-- [ORA4MAS](https://moise.sourceforge.net/doc/ora4mas/) or in the [repository](https://github.com/moise-lang/moise/tree/master/doc/ora4mas) a brief explanation
 <!-- - API -->
 
