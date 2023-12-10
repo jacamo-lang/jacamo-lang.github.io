@@ -63,6 +63,8 @@ This documentation will be refactored to comply with the new JaCaMo writing styl
 
 ### 3. Interaction
 
+- Using [Situated Artificial Institutions for Agent Societies](https://github.com/artificial-institutions/sai) for making Environment and Organisation interact with each other
+
 ### 4. Organization
 
 This documentation will be refactored to comply with the new JaCaMo writing style
