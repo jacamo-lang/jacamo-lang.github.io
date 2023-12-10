@@ -54,7 +54,7 @@ This documentation will be refactored to comply with the new JaCaMo writing styl
 
 #### 2.1. Understanding the Concepts  
 
-- [by Examples](https://cartago.sourceforge.net/?page_id=47)
+- [Discovering and mastering artifacts and workspaces](https://cartago.sourceforge.net/?page_id=47) (CArtAgO by examples)
 
 #### 2.2. Technical documentation 
 
