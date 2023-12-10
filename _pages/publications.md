@@ -10,9 +10,11 @@ This page contains publications related to JaCaMo. To include your publication i
 
   - [JaCaMo book](https://mitpress.mit.edu/books/multi-agent-oriented-programming){:target="_blank"} /
   [Examples & Exercises used in the book](https://jacamo-lang.github.io/documentation/maop-book/readme.html){:target="_blank"}<br/>
-  ![JaCaMo Book](../assets/images/jacamo-book-cover.jpg){:width="200"}
+  ![JaCaMo Book](../assets/images/jacamo-book-cover.jpg){:width="100"}
 
   - [Jason Book](https://www.wiley.com/en-gb/Programming+Multi+Agent+Systems+in+AgentSpeak+using+Jason-p-9780470029008)
+{:target="_blank"}
+![Jason Book](../assets/images/jason-book-cover.png){:width="100"}
 
 
 ## Papers
