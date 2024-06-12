@@ -17,5 +17,5 @@ These are some of the current or past projects contributing, extending, or using
 | eThicAa | BDI Agent reasoning on moral values |  | [Site](http://ethicaa.org)
 | NPL | Normative Programming Language used by JaCaMo | norms | [GitHub](https://github.com/moise-lang/npl)
 | jacamo-web | An IDE for interactive development of Multi-Agent Systems | ide, tools | [GitHub](https://github.com/jacamo-lang/jacamo-web)
-| hi_simulator | Framework for simulating task performance by Hybrid Intelligent Systems | Hybrid Intelligence, Human-Machine Teaming, Task Environment. Extension for JaCaMo to support a generic task model with configurable tasks for human and computational agents to collaboratively work on | [GitHub](https://github.com/benschlup/hi_simulator)
+| hi_simulator | Framework for simulating task performance by Hybrid Intelligent Systems. Extension for JaCaMo to support a generic task model with configurable tasks for human and computational agents to collaboratively work on. | Hybrid Intelligence, Human-Machine Teaming, Task Environment | [GitHub](https://github.com/benschlup/hi_simulator)
 
