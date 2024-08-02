@@ -27,7 +27,7 @@ This page contains links for JaCaMo documentation. Some of them may be outdated.
 
 - [Goal-Oriented Test-Driven for JaCaMo](https://jacamo-lang.github.io/jacamo/tutorials/tdd/readme.html)
 
-### 4. Interoperability with othe Agent Plaforms
+### 4. Interoperability with other Agent Platforms
 
 - [JADE in JaCaMo](http://jason-lang.github.io/jason/tutorials/jason-jade/readme.html) : using JADE as a communication infrastructure between agents of a single JaCaMo application or of a JaCaMo application with JADE agents.
 
