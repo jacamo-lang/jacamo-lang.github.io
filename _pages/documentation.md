@@ -45,7 +45,7 @@ This documentation will be refactored to comply with the new JaCaMo writing styl
 
 This documentation will be refactored to comply with the new JaCaMo writing style
 
-- [Jason Agent Programming Language](http://jason-lang.github.io/jason/)
+- [Jason Agent Programming Language](http://jason-lang.github.io/)
 - [JavaDoc API](https://jason-lang.github.io/api/)
 
 ### 2. Environment  
