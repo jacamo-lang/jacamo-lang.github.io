@@ -49,6 +49,13 @@ Unix:
     unzip np1.2.zip
     ./gradlew -Dexec.args="my1st-app --console"
 
+If you do not have `wget` installed, an alternative is:
+
+    curl -LO http://jacamo-lang.github.io/jacamo/nps/np1.2.zip
+    unzip np1.2.zip
+    ./gradlew -Dexec.args="my1st-app --console"
+
+
 Windows: 
 1.  Download <http://jacamo-lang.github.io/jacamo/nps/np1.2.zip>
 
