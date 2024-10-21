@@ -30,7 +30,7 @@ in the same environment and participate into an organisation.
 
 ## Creating an initial application
 
-The following commands will create a new [JaCaMo application](#../terminology.adoc#jacamo_application) identified by `my1st-app` with some initial source code for [agents](#../terminology.adoc#agent), [environment](#../terminology.adoc#environment) and [organization](#../terminology.adoc#organization). (The first time you run JaCaMo takes longer since it downloads all dependencies.)
+The following commands will create a new JaCaMo application identified by `my1st-app` with some initial source code for agents, environment and organization. (The first time you run JaCaMo takes longer since it downloads all dependencies.)
 
 > **NOTE**: You find alternatives to create JaCaMo applications [here](http://jacamo-lang.github.io/jacamo/install.html) (using codespace/gitpod/docker/…).
 
@@ -151,10 +151,7 @@ The source code for bob (file `src/agt/bob.asl`) is:
     { include("$jacamo/templates/common-moise.asl") }
     { include("$moise/asl/org-obedient.asl") }
 
-This plan states that as soon as bob has a
-[belief](#../terminology.adoc#belief) that matches
-`greeting(M)[source(A)]`, it prints out a message. This belief is added
-in his mind as the consequence of receiving alice’s message.
+This plan states that as soon as bob has a belief that matches `greeting(M)[source(A)]`, it prints out a message. This belief is added in his mind as the consequence of receiving alice’s message.
 
 Execute the application again with the command
 `./gradlew -q --console=plain` and now the output is:
@@ -307,13 +304,7 @@ printing the values as soon as they are perceived:
 
 ## Participating to an organisation
 
-Let’s make the agents participate to an
-[organisation](#../terminology#organisation). For that purpose, agents
-will play [roles](#../terminology.adoc#role) in
-[groups](#../terminology.adoc#group) of the organisation. We will create
-a [group instance](#../terminology.adoc#group_instance) of `group1` that
-Alice and Bob will join by adopting roles `role1` and `role2`,
-respectively.
+Let’s make the agents participate to an organisation. For that purpose, agents will play roles in groups of the organisation. We will create a group instance of `group1` that Alice and Bob will join by adopting roles `role1` and `role2`, respectively.
 
 All possible groups and roles of an organisation should be specified in
 an XML file. Here we will use the specification that is already included
