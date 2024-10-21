@@ -22,7 +22,7 @@ in the same environment and participate into an organisation.
 
 ## What You Need
 
--   Java 17 or newer
+-   Java 21 or newer
 
 -   A shell terminal
 
@@ -30,34 +30,26 @@ in the same environment and participate into an organisation.
 
 ## Creating an initial application
 
-The following commands will create a new [JaCaMo
-application](#../terminology.adoc#jacamo_application) identified by
-`my1st-app` with some initial source code for
-[agents](#../terminology.adoc#agent),
-[environment](#../terminology.adoc#environment) and
-[organization](#../terminology.adoc#organization). (The first time you
-run JaCaMo takes longer since it downloads all dependencies.)
+The following commands will create a new [JaCaMo application](#../terminology.adoc#jacamo_application) identified by `my1st-app` with some initial source code for [agents](#../terminology.adoc#agent), [environment](#../terminology.adoc#environment) and [organization](#../terminology.adoc#organization). (The first time you run JaCaMo takes longer since it downloads all dependencies.)
 
-> **NOTE**: You find alternatives to create JaCaMo applications
-[here](http://jacamo-lang.github.io/jacamo/install.html) (using
-codespace/gitpod/docker/…).
+> **NOTE**: You find alternatives to create JaCaMo applications [here](http://jacamo-lang.github.io/jacamo/install.html) (using codespace/gitpod/docker/…).
 
 
 Unix:
 
-    wget -q http://jacamo-lang.github.io/jacamo/nps/np1.2.zip
-    unzip np1.2.zip
+    wget -q http://jacamo-lang.github.io/jacamo/nps/np1.3.zip
+    unzip np1.3.zip
     ./gradlew -Dexec.args="my1st-app --console"
 
 If you do not have `wget` installed, an alternative is:
 
-    curl -LO http://jacamo-lang.github.io/jacamo/nps/np1.2.zip
-    unzip np1.2.zip
+    curl -LO http://jacamo-lang.github.io/jacamo/nps/np1.3.zip
+    unzip np1.3.zip
     ./gradlew -Dexec.args="my1st-app --console"
 
 
 Windows: 
-1.  Download <http://jacamo-lang.github.io/jacamo/nps/np1.2.zip>
+1.  Download <http://jacamo-lang.github.io/jacamo/nps/np1.3.zip>
 
 2.  Unzip
 
@@ -143,14 +135,9 @@ preferred editor, create the file `src/agt/alice.asl` as follows:
     { include("$jacamo/templates/common-moise.asl") }
     { include("$moise/asl/org-obedient.asl") }
 
-This code states that alice has one [goal](#../terminology.adoc#goal),
-created when alice starts running. This goal can be achieved by a
-[plan](#../terminology.adoc#plan) (3rd and 4th lines) that simply sends
-a [message](#../terminology.adoc#message) to another agent named bob
-telling him `greeting("hello world")`.
+This code states that alice has one goal, created when alice starts running. This goal can be achieved by a plan (3rd and 4th lines) that simply sends a message to another agent named bob telling him `greeting("hello world")`.
 
-details about the language used to code the agents and the language used
-for their communication is covered in other documents.
+Details about the language used to code the agents and the language used for their communication is covered in other documents.
 
 The source code for bob (file `src/agt/bob.asl`) is:
 
