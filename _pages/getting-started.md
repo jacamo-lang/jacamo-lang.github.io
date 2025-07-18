@@ -166,17 +166,17 @@ to `alice`.
 
 ![bob’s Mind](../assets/images/getting-started/screen-mind1.png)
 
-It follows also a screenshot of the project execution when using Visual
+It follows also a screenshot of the application execution when using Visual
 Studio Code as the IDE.
 
 ![VSC](../assets/images/getting-started/screen-vsc1.png)
 
 ## Using a shared environment
 
-The environment provides perception for the agents and is where their
+The environment provides perception for the agents and it is where their
 actions take place. In our application, agents will share an artifact of
 the environment to get unique identifiers. This kind of artifact is
-already included in the initial project. It is in the file
+already included in the JaCaMo applications. It is in the file
 `src/env/example/Counter.java`, so you do not need to implement it. We
 will focus thus on how agents use it.
 
@@ -308,10 +308,10 @@ Let’s make the agents participate to an organisation. For that purpose, agents
 
 All possible groups and roles of an organisation should be specified in
 an XML file. Here we will use the specification that is already included
-in the initial project (file `src/org/org.xml`). This specification
+in the application (file `src/org/org.xml`). This specification
 defines a group type identified by `group1` and the two mentioned roles
 for this group. To create an instance of this group and assign its roles
-to our agents, you can change the application project to:
+to our agents, you can change the application configuration to:
 
 **my1st\_app.jcm**
 
@@ -366,8 +366,8 @@ Alice keeps running correctly.
 
 In this brief tutorial, you have learnt:
 
--   how to create a JaCaMo Project,
+-   how to create a JaCaMo Applications,
 
--   how the source code of the project is usually structured, and
+-   how the source code of the application is usually structured, and
 
 -   how to execute and see the current state of a JaCaMo application.
